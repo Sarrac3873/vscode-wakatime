@@ -99,7 +99,7 @@
     "@types/request": "^2.48.5",
     "@types/rimraf": "^3.0.0",
     "@types/webpack": "^4.41.25",
-    "@types/vscode": "^1.52.0",
+    "@types/vscode": "^1.63.1",
     "adm-zip": "0.5.1",
     "azdata": "^1.0.0",
     "del-cli": "^3.0.1",
